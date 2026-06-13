@@ -1,7 +1,5 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
-
+## Hi 👋😬
+- --
 - 🔭 I’m currently looking for Data Science Opportunity 😎
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Analysis or Machine Learning Project
