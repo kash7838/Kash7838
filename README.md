@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Analysis or Machine Learning Project
 - 🤔 I’m looking for help with Job search.
 - 💬 Ask me about Data
-- ⚡ Fun fact: I am writing a book and also post on 2-3 pager posts also.
+- ⚡ Fun fact: I am writing a book and also post a 2-3 pager posts about Data & stuff...
 
 
 ## 🌐 Socials:
