@@ -1,6 +1,6 @@
 ## Hi 👋😬
 - 🔭 I’m currently looking for Data Science Opportunity 😎
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning AI/ML
 - 👯 I’m looking to collaborate on Analysis or Machine Learning Project
 - 🤔 I’m looking for help with Job search.
 - 💬 Ask me about Data
